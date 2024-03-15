@@ -1,5 +1,7 @@
-com\mycompany\revisaofor\ExFibonacci.class
-com\mycompany\revisaofor\RevisaoFor.class
+com\mycompany\revisaofor\multiplosFor.class
 com\mycompany\revisaofor\numerosImparesReverso.class
 com\mycompany\revisaofor\ContagemRegressiva.class
 com\mycompany\revisaofor\TabuadaFor.class
+com\mycompany\revisaofor\ExFibonacci.class
+com\mycompany\revisaofor\RevisaoFor.class
+com\mycompany\revisaofor\VerificarPrimos.class
